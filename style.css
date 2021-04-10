@@ -1,11 +1,19 @@
 body {
-    color: mediumpurpl;
     text-align: center;
-    background-color: gold;
-
+    background-color: lightgreen;
 }
 
-h1 {
-    font-family: sans-serif;
-    color: yellow;
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
 }
